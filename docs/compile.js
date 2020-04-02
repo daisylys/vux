@@ -1101,7 +1101,7 @@ export default {
   }
   .component-demo {
     position: absolute;
-    right: 5px;
+    right: 6px;
     top: 15px;
   }
   .prop-color {
